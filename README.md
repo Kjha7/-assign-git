@@ -1,2 +1,2 @@
-# -assign-git
+# assign-git
 Kirti Jha
